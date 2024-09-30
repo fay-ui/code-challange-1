@@ -30,7 +30,7 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 * And you are all done
 
 ## Live server
-* You can view the web live on  
+* You can view the web live on  https://github.com/fay-ui/code-challange-1
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -38,6 +38,6 @@ The application works perfectly well, no bugs.
 email :: faith.njau@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence]
+*LIcenced under the [MT-licence] https://github.com/fay-ui/code-challange-1/blob/main/licence.md
 
 Copyright (c) 2024 **faith njau**
